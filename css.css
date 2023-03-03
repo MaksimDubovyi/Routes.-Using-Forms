@@ -1,0 +1,7 @@
+.td1 {margin: 0; padding: 0px; width: 250px; }
+.button{ text-align: center; border: 3px solid #000000; font-size: 22px; box-shadow: 3px 2px 3px rgb(119, 109, 109); margin:10px; background-color: rgb(255, 255, 7); font-weight: bold; width: 430px; height: 50px; border-radius: 8px }
+.IMGS{margin-left: 50px; background-color: rgb(159, 140, 126); 
+     border:5px solid #947204; border-radius: 8px;  box-shadow: 15px 15px 16px rgb(119, 109, 109);}
+h1{text-align: center; text-shadow: 2px 2px 3px #000; font-size: 45px; margin-bottom: 50px;}
+p{font-weight: 700; font-size: 18px; }
+h2{text-align: center; text-shadow: 2px 2px 3px #c0bdbd; font-size: 35px; margin-bottom: 20px; margin-top: 30px;}
